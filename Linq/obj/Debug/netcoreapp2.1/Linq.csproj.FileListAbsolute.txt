@@ -1,0 +1,11 @@
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\bin\Debug\netcoreapp2.1\Linq.deps.json
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.json
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.dev.json
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\bin\Debug\netcoreapp2.1\Linq.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\bin\Debug\netcoreapp2.1\Linq.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\obj\Debug\netcoreapp2.1\Linq.csprojAssemblyReference.cache
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\obj\Debug\netcoreapp2.1\Linq.csproj.CoreCompileInputs.cache
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfoInputs.cache
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfo.cs
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\obj\Debug\netcoreapp2.1\Linq.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Linq\obj\Debug\netcoreapp2.1\Linq.pdb

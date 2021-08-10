@@ -1,0 +1,14 @@
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
