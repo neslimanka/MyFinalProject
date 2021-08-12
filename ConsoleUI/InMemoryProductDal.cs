@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 
 namespace ConsoleUI
 {
@@ -36,6 +37,11 @@ namespace ConsoleUI
         public List<Product> GetAllByCategory(int categoryId)
         {
             throw new System.NotImplementedException();
+        }
+
+        public List<ProductDatailDto> GetProductDetails()
+        {
+            throw new NotImplementedException();
         }
 
         public void Update(Product product)

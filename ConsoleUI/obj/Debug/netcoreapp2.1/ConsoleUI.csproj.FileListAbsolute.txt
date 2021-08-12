@@ -16,3 +16,5 @@ C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\ConsoleUI\bin\Debug\ne
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csproj.CopyComplete
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.dll
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp2.1\Core.pdb

@@ -10,3 +10,5 @@ C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\n
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb

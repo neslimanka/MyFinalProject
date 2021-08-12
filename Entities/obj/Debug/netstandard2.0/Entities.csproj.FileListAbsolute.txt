@@ -7,3 +7,6 @@ C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\net
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete

@@ -1,10 +1,11 @@
-﻿using Entities.Abstract;
+﻿
+using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     public interface IEntityRepository<T> where T : class, IEntity ,new ()
         //T bir refernas tipi olmalı ve T ya Ientity olabilir yada Ientity den implemente olan birşeydir.
@@ -13,7 +14,7 @@ namespace DataAccess.Abstract
     {
         List<T> GetAll(Expression<Func<T,bool>> filter=null );
         //Bu yukarıdaki yapı bizim ;
-        //Ex:product.GetAll(p=>p.CategoryId==2); gibi filtreler yazabilmemizi ağlıyor.
+        //Ex:product.GetAll(p=>p.CategoryId==2); gibi filtreler yazabilmemizi sağlıyor.
         T Get(Expression<Func<T, bool>> filter);
         void Add(T entity);
         void Delete(T entity);

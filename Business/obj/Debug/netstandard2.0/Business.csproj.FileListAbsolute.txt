@@ -12,3 +12,5 @@ C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\net
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
