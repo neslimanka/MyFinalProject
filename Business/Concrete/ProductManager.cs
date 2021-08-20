@@ -24,6 +24,17 @@ namespace Business.Concrete
 
         public IResult Add(Product product)
         {
+            //AOP: biz bütün metodlarımızı loglamak istiyoruz.Normalde ILoggerService.Log() gibi bişey 
+            //denerim.onun yerine ben şunu yapıcam :
+
+            //[LogAspect]-->Git bu metodu log la.
+            //[Validate]-->Bunu doğrula
+            //metot(){
+
+            //}
+            //AOP : bir metodun önunde ,bir metodun sonunda ,bir metot hata verdiğinde çalışan kod parçacıklarını
+            //biz AOP mimarisi ile yazıyoruz.Yani business in içinde business yazılır.
+            //bu şekilde bir altyapı oluşturulabilir.
             if (product.ProductName.Length < 2)
             {
                 return new ErrorResult(Messages.ProductNameInvalid);
@@ -36,10 +47,10 @@ namespace Business.Concrete
 
         public IDataResult<List<Product>> GetAll()
         {
-            if (DateTime.Now.Hour == 22)
-            {
-                return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
-            }
+            //if (DateTime.Now.Hour == 22)
+            //{
+            //    return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
+            //}
             return new SuccessDataResult<List<Product>>(_productDal.GetAll(),Messages.ProductsListed);
         }
 
