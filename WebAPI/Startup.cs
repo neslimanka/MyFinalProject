@@ -32,10 +32,10 @@ namespace WebAPI
             //autofaz,Ninject,CastleWindsor,StructureMap,LightInject,DryInject--->IoC Container 
             //AOP
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddSingleton<IProductService,ProductManager>();//Bana arka planda bir servis olustur.
+            //services.AddSingleton<IProductService,ProductManager>();//Bana arka planda bir servis olustur.
             // Ben diyorum ki IoC ye , birisi senden IProductServis isterse ona arka planda bir tane ProductManager oluştur 
             //onu ver 
-            services.AddSingleton<IProductDal, EfProductDal>();
+            //services.AddSingleton<IProductDal, EfProductDal>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
