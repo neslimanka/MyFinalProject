@@ -9,10 +9,9 @@ using System.Text;
 
 namespace Business.DependencyResolvers.Autofac
 {
-
     //.NETcore biliyorum senın bir IoC yapılandırman var ama ben onu değilde burayı kullanmak ıstıyorum demem lazım!
     //Bunun için WebApı ye gel ve program.cs i aç
-   public  class AutofacBusinessModule : Module
+    public class AutofacBusinessModule : Module
     {
         protected override void Load(ContainerBuilder builder)
         {

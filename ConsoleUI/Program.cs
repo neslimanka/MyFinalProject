@@ -4,18 +4,17 @@ using System;
 
 namespace ConsoleUI
 {
-
-    //Solıd
-    //Open Closed Principle--yaptığın yazılıma yenı bir özellik ekliyorsan mevcuttaki kodlara dokunamazsın.
-   public class Program
+    class Program
     {
+
         static void Main(string[] args)
         {
             ProductTest();
-           // CategoryTest();
+            CategoryTest();
+            Console.WriteLine("--------------------------------------------------------");
 
+            Console.Read();
         }
-
         private static void CategoryTest()
         {
             CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
@@ -31,7 +30,7 @@ namespace ConsoleUI
         {
             ProductManager productManager = new ProductManager(new EfProductDal());
             var result = productManager.GetProductDetails();
-            if (result.Success==true)
+            if (result.Success == true)
             {
                 foreach (var item in result.Data)
                 {
@@ -43,11 +42,8 @@ namespace ConsoleUI
             {
                 Console.WriteLine(result.Message);
             }
-           
+
         }
-
-        
     }
-
-    
 }
+

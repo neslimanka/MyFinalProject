@@ -1,0 +1,32 @@
+C:\Users\nesli\Desktop\Github\deneme2\Business\bin\Debug\netcoreapp2.1\Business.deps.json
+C:\Users\nesli\Desktop\Github\deneme2\Business\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\nesli\Desktop\Github\deneme2\Business\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\nesli\Desktop\Github\deneme2\Business\obj\Debug\netcoreapp2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\nesli\Desktop\Github\deneme2\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfoInputs.cache
+C:\Users\nesli\Desktop\Github\deneme2\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfo.cs
+C:\Users\nesli\Desktop\Github\deneme2\Business\obj\Debug\netcoreapp2.1\Business.dll
+C:\Users\nesli\Desktop\Github\deneme2\Business\obj\Debug\netcoreapp2.1\Business.pdb
+C:\Users\nesli\Desktop\Github\deneme2\Business\obj\Debug\netcoreapp2.1\Business.csprojAssemblyReference.cache
+C:\Users\nesli\Desktop\Github\deneme2\Business\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\nesli\Desktop\Github\deneme2\Business\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\nesli\Desktop\Github\deneme2\Business\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\nesli\Desktop\Github\deneme2\Business\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\nesli\Desktop\Github\deneme2\Business\obj\Debug\netcoreapp2.1\Business.csproj.CopyComplete
+C:\Users\nesli\Desktop\Github\deneme2\Business\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\nesli\Desktop\Github\deneme2\Business\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netcoreapp2.1\Business.deps.json
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netcoreapp2.1\Business.csprojAssemblyReference.cache
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netcoreapp2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfoInputs.cache
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfo.cs
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netcoreapp2.1\Business.csproj.CopyComplete
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netcoreapp2.1\Business.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Business\obj\Debug\netcoreapp2.1\Business.pdb
