@@ -21,6 +21,12 @@ namespace Business.DependencyResolvers.Autofac
             //webapi--startup içerisindeki services.AddSingleton<IProductService,ProductManager>();
             //karşılık geliyor.
             builder.RegisterType<EfProductDal>().As<IProductDal>().SingleInstance();
+            //var assembly = System.Reflection.Assembly.GetExecutingAssembly();
+            //builder.RegisterAssemblyTypes(assembly).AsImplementedInterfaces()
+            //  .EnableInterfaceInterceptors(new ProxyGenerationOptions()
+            //  {
+            //      Selector = new AspectInterceptorSelector()
+            //  }).SingleInstance();
         }
     }
 }
