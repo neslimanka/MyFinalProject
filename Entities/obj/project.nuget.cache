@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OpeszQUUjovtLfsbCJVDUC+/xieMOfbbxAP4pGp18nEl2Kk+zFUnqZkfsMZLbRBWP8+T7zUXXs44wf0i+0WqpQ==",
+  "dgSpecHash": "CRQIhAEsJCRki6XmK+A3COxP3jtJy6xKzTXe4vJXJDspodrRwiPN+dNkBx6uQUFrA0wz8F63xHgN7raHfOAJzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nesli\\Desktop\\Github\\Yeni klasör\\MyFinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nesli\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
     "C:\\Users\\nesli\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.0\\microsoft.entityframeworkcore.2.1.0.nupkg.sha512",
     "C:\\Users\\nesli\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.1.0\\microsoft.entityframeworkcore.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\nesli\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\2.1.0\\microsoft.entityframeworkcore.analyzers.2.1.0.nupkg.sha512",

@@ -1,9 +1,12 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.Dto;
+using FluentValidation;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -19,23 +22,34 @@ namespace Business.Concrete
             _productDal = productDal;
         }
 
+      
         public IResult Add(Product product)
+
+
         {
+
+
+           
+
+            ValidationTool.Validate(new ProductValidator(), product);
+
             //AOP: biz bütün metodlarımızı loglamak istiyoruz.Normalde ILoggerService.Log() gibi bişey 
             //denerim.onun yerine ben şunu yapıcam :
 
             //[LogAspect]-->Git bu metodu log la.
-            //[Validate]-->Bunu doğrula
+            //[Validate]-->Bunu doğrula--Eklemeye çalıştıgımız product objesinin iş kurallarına dahil etmek
+            //için yapısal olarak uygun olup olmadıgını kontrol etmeye doğrulama denir.
+
             //metot(){
 
             //}
             //AOP : bir metodun önunde ,bir metodun sonunda ,bir metot hata verdiğinde çalışan kod parçacıklarını
             //biz AOP mimarisi ile yazıyoruz.Yani business in içinde business yazılır.
             //bu şekilde bir altyapı oluşturulabilir.
-            if (product.ProductName.Length < 2)
-            {
-                return new ErrorResult(Messages.ProductNameInvalid);
-            }
+
+            //
+
+          
 
             _productDal.Add(product);
 
