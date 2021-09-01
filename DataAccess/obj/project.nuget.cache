@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rEo9MCAKWwK9iGKTn2/MtoqgOPs0HuNxEN996c21Gd0lZUOGuwR3yUWabrzJj5SEE9maXyd/iteCWOu8rLm1tQ==",
+  "dgSpecHash": "n39fSfcEO5thN1iY4GLFHe/gwjVm/YuPt+Ns2qlUVunaFE1uGHmM/FvvPwT3RZvI7LrbPJmwy1PExmhfoIHhaw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nesli\\Desktop\\Github\\Yeni klasör\\MyFinalProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nesli\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\nesli\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\nesli\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\nesli\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\nesli\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",

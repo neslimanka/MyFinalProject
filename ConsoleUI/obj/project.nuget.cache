@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HS+DtAaEqOJXByiv/aEnwWwzNoyhu5YuLICb2YL7UZGBSWEFAvlvFQF+B/wzCrGOJ05XhTz5Fv3+zfFvJ2NH5g==",
+  "dgSpecHash": "J/i+6Wv8ks9iO4ZLBWS+rhLOS/zR/6Sy5d8lNBl3/1L+mfpDXTm96zYBjCEI3e2kNzZPw9QT3WtHxwtzMUQM2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\nesli\\Desktop\\Github\\Yeni klasör\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nesli\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\nesli\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\nesli\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\nesli\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\nesli\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
