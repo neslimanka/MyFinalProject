@@ -25,5 +25,4 @@ C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\n
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
-C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.AssemblyReference.cache
-C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache

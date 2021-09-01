@@ -15,5 +15,4 @@ C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Core\obj\Debug\netcore
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Core\obj\Debug\netcoreapp2.1\Core.dll
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Core\obj\Debug\netcoreapp2.1\Core.pdb
-C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Core\obj\Debug\netcoreapp2.1\Core.csproj.AssemblyReference.cache
-C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Core\obj\Debug\netcoreapp2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache

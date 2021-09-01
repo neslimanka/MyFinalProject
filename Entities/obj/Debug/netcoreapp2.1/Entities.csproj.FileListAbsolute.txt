@@ -21,5 +21,4 @@ C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\net
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CopyComplete
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netcoreapp2.1\Entities.dll
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
-C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.AssemblyReference.cache
-C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netcoreapp2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
