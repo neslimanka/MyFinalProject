@@ -724,6 +724,7 @@
       },
       "Core/1.0.0": {
         "dependencies": {
+          "FluentValidation": "10.3.3",
           "Microsoft.EntityFrameworkCore": "2.2.0"
         },
         "runtime": {
