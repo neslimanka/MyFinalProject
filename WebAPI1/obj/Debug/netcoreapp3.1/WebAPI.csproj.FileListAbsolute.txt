@@ -46,3 +46,5 @@ C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\WebAPI1\bin\Debug\netc
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\WebAPI1\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\WebAPI1\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\WebAPI1\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nesli\Desktop\Github\Yeni klasör\MyFinalProject\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
